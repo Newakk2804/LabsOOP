@@ -1,0 +1,7 @@
+﻿  Polynom.cpp
+D:\Programming\C++\ООП\Labs_2\Option_5\Polynom.cpp(26,27): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Programming\C++\ООП\Labs_2\Option_5\Polynom.cpp(40,27): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Programming\C++\ООП\Labs_2\Option_5\Polynom.cpp(54,17): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  Option_5.vcxproj -> D:\Programming\C++\ООП\Labs_2\Option_5\x64\Debug\Option_5.exe
