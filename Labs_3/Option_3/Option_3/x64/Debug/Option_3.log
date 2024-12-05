@@ -1,0 +1,6 @@
+﻿  main.cpp
+  Stack.cpp
+D:\Programming\C++\ООП\Labs_3\Option_3\Stack.cpp(27,18): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  StackManager.cpp
+  Generating Code...
+  Option_3.vcxproj -> D:\Programming\C++\ООП\Labs_3\Option_3\x64\Debug\Option_3.exe
